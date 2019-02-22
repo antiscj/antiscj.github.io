@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 paginate: 4
 paginate_path: "/page:num"
 markdown: kramdown
+theme: minima
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
