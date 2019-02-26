@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "How I ended up in a Korean religious cult"
-categories: 异端接触
+categories: 异端见闻
 ---
+
+2014-11-17
 
 This is quite an unusual story, as it is my account of how I ended up in a religious cult in South Korea and how I walked out of it. It has been a most interesting experience, but not without any fear. My story provides an insight in how religious cults can function and serves as a warning for others, who might find themselves in a similar situation one day.
 
