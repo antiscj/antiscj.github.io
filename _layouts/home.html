@@ -30,10 +30,10 @@ group: navigation
     </ul>
 	<ul class="pager">
 	  {% if paginator.previous_page %}
-		  <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 更早的文章</a></li>
+		  <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 更新的文章</a></li>
 	  {% endif %}
 	  {% if paginator.next_page %}
-		  <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">更新的文章 &rarr;</a></li>
+		  <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">更早的文章 &rarr;</a></li>
 	  {% endif %}
 	</ul>
   {%- endif -%}

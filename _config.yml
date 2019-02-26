@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
 google_analytics: UA-135105640-1
 show_excerpts: true
 excerpt_separator: <!--more-->
-paginate: 4
+paginate: 6
 paginate_path: "/page:num"
 markdown: kramdown
 theme: minima
