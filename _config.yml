@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   本站收集新天地邪教相关活动与信息，揭露其邪教本质，帮助主内小羊防范此异端。
 google_analytics: UA-135105640-1
 show_excerpts: true
+lang: zh_cn
 excerpt_separator: <!--more-->
 paginate: 6
 paginate_path: "/page:num"
